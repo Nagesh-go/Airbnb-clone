@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airbnb Clone - Full Stack Application
 
 A full-stack Airbnb clone built with Django backend and React frontend.
@@ -270,3 +271,6 @@ This project demonstrates:
 - **API integration** between frontend and backend
 
 A comprehensive full-stack project demonstrating modern web development practices. 
+=======
+# Airbnb-clone
+>>>>>>> f3dd4ee259cf955b7b8b866dca2946bbec02fe7a
